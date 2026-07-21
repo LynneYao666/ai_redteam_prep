@@ -1,0 +1,5 @@
+Retrieval-Augmented Generation (RAG) is an architecture that combines a
+retrieval system with a language model. When a user asks a question, the
+system first retrieves relevant documents from a knowledge base using
+vector similarity search, then passes those documents along with the
+question to the LLM to generate a grounded answer.

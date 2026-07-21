@@ -1,0 +1,6 @@
+Prompt injection is a security vulnerability where an attacker crafts input
+that causes a large language model to deviate from its original instructions.
+There are two main types: direct injection, where the attacker directly
+provides the malicious input, and indirect injection, where malicious
+instructions are embedded in external content the model later processes,
+such as a document, webpage, or tool output.

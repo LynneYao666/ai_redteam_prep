@@ -1,0 +1,5 @@
+Excessive agency in AI agents refers to a system being granted more
+permissions, tools, or autonomy than necessary for its task. This becomes
+dangerous when combined with prompt injection, as an attacker who
+compromises the model's instructions can then abuse those excessive
+permissions to take unintended actions.

@@ -1,0 +1,4 @@
+Vector databases like Chroma, Pinecone, and Weaviate store embeddings and
+support approximate nearest neighbor search. They are commonly used in RAG
+pipelines to quickly find semantically similar content without needing
+exact keyword matches.

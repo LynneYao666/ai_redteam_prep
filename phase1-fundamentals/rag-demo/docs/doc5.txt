@@ -1,0 +1,5 @@
+OWASP publishes a Top 10 list for LLM Applications, covering risks such as
+prompt injection, sensitive information disclosure, supply chain
+vulnerabilities, data and model poisoning, improper output handling,
+excessive agency, system prompt leakage, vector and embedding weaknesses,
+misinformation, and unbounded consumption.
